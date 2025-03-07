@@ -1,0 +1,22 @@
+{
+    "lstm_metrics": {
+        "Mean Squared Error": 0.03487535730568869,
+        "Root Mean Squared Error": 0.18674945061683232,
+        "Mean Absolute Error": 0.17975994615295848,
+        "R-squared": -1.3669048717818755,
+        "Accuracy": 0.9293563579277865,
+        "Precision": 1.0,
+        "Recall": 0.4375,
+        "F1 Score": 0.6086956521739131
+    },
+    "svm_metrics": {
+        "Mean Squared Error": 0.004733343268186759,
+        "Root Mean Squared Error": 0.06879929700357962,
+        "Mean Absolute Error": 0.06309385356987163,
+        "R-squared": 0.9483384715127339,
+        "Accuracy": 0.92,
+        "Precision": 1.0,
+        "Recall": 0.2602040816326531,
+        "F1 Score": 0.4129554655870446
+    }
+}
